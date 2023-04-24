@@ -1,6 +1,4 @@
 ![github-header-image](https://user-images.githubusercontent.com/92746109/233910750-84ecb18f-c2dc-438d-bafa-689bd3c0e56c.png)
-<h1 align="center">Hi 👋, I'm Tanu Maurya</h1>
-<h3 align="center">Passionate data scientist with analytical skills</h3>
 
 - 🌱 I’m currently learning **Networking, Master in Data Science**
 
